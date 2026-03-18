@@ -12,4 +12,3 @@ aiohttp
 cfonts
 flask
 gunicorn
-rich
