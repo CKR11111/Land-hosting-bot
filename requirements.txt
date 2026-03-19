@@ -9,6 +9,8 @@ urllib3
 protobuf-decoder
 pytz
 aiohttp
-cfonts
+python-cfonts
 flask
 gunicorn
+rich
+python-telegram-bot
