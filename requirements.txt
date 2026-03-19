@@ -14,3 +14,4 @@ flask
 gunicorn
 rich
 python-telegram-bot
+neonize
