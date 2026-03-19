@@ -13,5 +13,5 @@ python-cfonts
 flask
 gunicorn
 rich
+pystyle
 python-telegram-bot
-neonize
